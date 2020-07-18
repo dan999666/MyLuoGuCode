@@ -3,4 +3,4 @@ project(LuoGu)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LuoGu BranchStructure/P5717.cpp)
+add_executable(LuoGu LoopStructure/P2669.cpp)

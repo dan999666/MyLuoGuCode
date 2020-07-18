@@ -13,6 +13,7 @@ int main() {
 
     if (num[1] + num[2] < num[3]) {
         cout << "Not triangle";
+        return 0;
     }
 
     if (num[1] * num[1] + num[2] * num[2] == num[3] * num[3]) {
@@ -23,10 +24,10 @@ int main() {
         cout << "Obtuse triangle" << endl;
     }
 
-    if (a == b && b == c && a == c) {
-        cout << "Equilateral triangle" << endl;
-    }
-    if (a == b || b == c) {
+    if ((a == b || b == c)) {
         cout << "Isosceles triangle" << endl;
+    }
+    if ((a == b && b == c && a == c)) {
+        cout << "Equilateral triangle" << endl;
     }
 }

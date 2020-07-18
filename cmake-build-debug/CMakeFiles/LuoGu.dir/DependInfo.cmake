@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Administrator/Desktop/LuoGu/BranchStructure/P5717.cpp" "C:/Users/Administrator/Desktop/LuoGu/cmake-build-debug/CMakeFiles/LuoGu.dir/BranchStructure/P5717.cpp.obj"
+  "C:/Users/Administrator/Desktop/LuoGu/LoopStructure/P2669.cpp" "C:/Users/Administrator/Desktop/LuoGu/cmake-build-debug/CMakeFiles/LuoGu.dir/LoopStructure/P2669.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

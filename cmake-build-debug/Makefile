@@ -122,32 +122,32 @@ LuoGu/fast:
 	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/build
 .PHONY : LuoGu/fast
 
-BranchStructure/P5717.obj: BranchStructure/P5717.cpp.obj
+LoopStructure/P2669.obj: LoopStructure/P2669.cpp.obj
 
-.PHONY : BranchStructure/P5717.obj
+.PHONY : LoopStructure/P2669.obj
 
 # target to build an object file
-BranchStructure/P5717.cpp.obj:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/BranchStructure/P5717.cpp.obj
-.PHONY : BranchStructure/P5717.cpp.obj
+LoopStructure/P2669.cpp.obj:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P2669.cpp.obj
+.PHONY : LoopStructure/P2669.cpp.obj
 
-BranchStructure/P5717.i: BranchStructure/P5717.cpp.i
+LoopStructure/P2669.i: LoopStructure/P2669.cpp.i
 
-.PHONY : BranchStructure/P5717.i
+.PHONY : LoopStructure/P2669.i
 
 # target to preprocess a source file
-BranchStructure/P5717.cpp.i:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/BranchStructure/P5717.cpp.i
-.PHONY : BranchStructure/P5717.cpp.i
+LoopStructure/P2669.cpp.i:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P2669.cpp.i
+.PHONY : LoopStructure/P2669.cpp.i
 
-BranchStructure/P5717.s: BranchStructure/P5717.cpp.s
+LoopStructure/P2669.s: LoopStructure/P2669.cpp.s
 
-.PHONY : BranchStructure/P5717.s
+.PHONY : LoopStructure/P2669.s
 
 # target to generate assembly for a file
-BranchStructure/P5717.cpp.s:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/BranchStructure/P5717.cpp.s
-.PHONY : BranchStructure/P5717.cpp.s
+LoopStructure/P2669.cpp.s:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P2669.cpp.s
+.PHONY : LoopStructure/P2669.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... LuoGu
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... BranchStructure/P5717.obj
-	@echo ... BranchStructure/P5717.i
-	@echo ... BranchStructure/P5717.s
+	@echo ... LoopStructure/P2669.obj
+	@echo ... LoopStructure/P2669.i
+	@echo ... LoopStructure/P2669.s
 .PHONY : help
 
 
