@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LuoGu.dir/LoopStructure/P2669.cpp.obj"
+  "CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj"
   "LuoGu.exe"
   "LuoGu.exe.manifest"
   "LuoGu.pdb"
