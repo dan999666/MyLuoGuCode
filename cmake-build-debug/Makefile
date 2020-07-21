@@ -122,32 +122,32 @@ LuoGu/fast:
 	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/build
 .PHONY : LuoGu/fast
 
-LoopStructure/P1075.obj: LoopStructure/P1075.cpp.obj
+LoopStructure/P1089.obj: LoopStructure/P1089.cpp.obj
 
-.PHONY : LoopStructure/P1075.obj
+.PHONY : LoopStructure/P1089.obj
 
 # target to build an object file
-LoopStructure/P1075.cpp.obj:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj
-.PHONY : LoopStructure/P1075.cpp.obj
+LoopStructure/P1089.cpp.obj:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.obj
+.PHONY : LoopStructure/P1089.cpp.obj
 
-LoopStructure/P1075.i: LoopStructure/P1075.cpp.i
+LoopStructure/P1089.i: LoopStructure/P1089.cpp.i
 
-.PHONY : LoopStructure/P1075.i
+.PHONY : LoopStructure/P1089.i
 
 # target to preprocess a source file
-LoopStructure/P1075.cpp.i:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.i
-.PHONY : LoopStructure/P1075.cpp.i
+LoopStructure/P1089.cpp.i:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.i
+.PHONY : LoopStructure/P1089.cpp.i
 
-LoopStructure/P1075.s: LoopStructure/P1075.cpp.s
+LoopStructure/P1089.s: LoopStructure/P1089.cpp.s
 
-.PHONY : LoopStructure/P1075.s
+.PHONY : LoopStructure/P1089.s
 
 # target to generate assembly for a file
-LoopStructure/P1075.cpp.s:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.s
-.PHONY : LoopStructure/P1075.cpp.s
+LoopStructure/P1089.cpp.s:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.s
+.PHONY : LoopStructure/P1089.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... LuoGu
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... LoopStructure/P1075.obj
-	@echo ... LoopStructure/P1075.i
-	@echo ... LoopStructure/P1075.s
+	@echo ... LoopStructure/P1089.obj
+	@echo ... LoopStructure/P1089.i
+	@echo ... LoopStructure/P1089.s
 .PHONY : help
 
 

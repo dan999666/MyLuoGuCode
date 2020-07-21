@@ -56,27 +56,27 @@ include CMakeFiles/LuoGu.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/LuoGu.dir/flags.make
 
-CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj: CMakeFiles/LuoGu.dir/flags.make
-CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj: ../LoopStructure/P1075.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\LuoGu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LuoGu.dir\LoopStructure\P1075.cpp.obj -c C:\Users\Administrator\Desktop\LuoGu\LoopStructure\P1075.cpp
+CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.obj: CMakeFiles/LuoGu.dir/flags.make
+CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.obj: ../LoopStructure/P1089.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\LuoGu\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\LuoGu.dir\LoopStructure\P1089.cpp.obj -c C:\Users\Administrator\Desktop\LuoGu\LoopStructure\P1089.cpp
 
-CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\LuoGu\LoopStructure\P1075.cpp > CMakeFiles\LuoGu.dir\LoopStructure\P1075.cpp.i
+CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\LuoGu\LoopStructure\P1089.cpp > CMakeFiles\LuoGu.dir\LoopStructure\P1089.cpp.i
 
-CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\LuoGu\LoopStructure\P1075.cpp -o CMakeFiles\LuoGu.dir\LoopStructure\P1075.cpp.s
+CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\LuoGu\LoopStructure\P1089.cpp -o CMakeFiles\LuoGu.dir\LoopStructure\P1089.cpp.s
 
 # Object files for target LuoGu
 LuoGu_OBJECTS = \
-"CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj"
+"CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.obj"
 
 # External object files for target LuoGu
 LuoGu_EXTERNAL_OBJECTS =
 
-LuoGu.exe: CMakeFiles/LuoGu.dir/LoopStructure/P1075.cpp.obj
+LuoGu.exe: CMakeFiles/LuoGu.dir/LoopStructure/P1089.cpp.obj
 LuoGu.exe: CMakeFiles/LuoGu.dir/build.make
 LuoGu.exe: CMakeFiles/LuoGu.dir/linklibs.rsp
 LuoGu.exe: CMakeFiles/LuoGu.dir/objects1.rsp
