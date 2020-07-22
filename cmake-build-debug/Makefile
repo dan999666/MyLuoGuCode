@@ -122,32 +122,32 @@ LuoGu/fast:
 	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/build
 .PHONY : LuoGu/fast
 
-LoopStructure/P5723.obj: LoopStructure/P5723.cpp.obj
+Array/P1047.obj: Array/P1047.cpp.obj
 
-.PHONY : LoopStructure/P5723.obj
+.PHONY : Array/P1047.obj
 
 # target to build an object file
-LoopStructure/P5723.cpp.obj:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P5723.cpp.obj
-.PHONY : LoopStructure/P5723.cpp.obj
+Array/P1047.cpp.obj:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P1047.cpp.obj
+.PHONY : Array/P1047.cpp.obj
 
-LoopStructure/P5723.i: LoopStructure/P5723.cpp.i
+Array/P1047.i: Array/P1047.cpp.i
 
-.PHONY : LoopStructure/P5723.i
+.PHONY : Array/P1047.i
 
 # target to preprocess a source file
-LoopStructure/P5723.cpp.i:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P5723.cpp.i
-.PHONY : LoopStructure/P5723.cpp.i
+Array/P1047.cpp.i:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P1047.cpp.i
+.PHONY : Array/P1047.cpp.i
 
-LoopStructure/P5723.s: LoopStructure/P5723.cpp.s
+Array/P1047.s: Array/P1047.cpp.s
 
-.PHONY : LoopStructure/P5723.s
+.PHONY : Array/P1047.s
 
 # target to generate assembly for a file
-LoopStructure/P5723.cpp.s:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/LoopStructure/P5723.cpp.s
-.PHONY : LoopStructure/P5723.cpp.s
+Array/P1047.cpp.s:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P1047.cpp.s
+.PHONY : Array/P1047.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... LuoGu
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... LoopStructure/P5723.obj
-	@echo ... LoopStructure/P5723.i
-	@echo ... LoopStructure/P5723.s
+	@echo ... Array/P1047.obj
+	@echo ... Array/P1047.i
+	@echo ... Array/P1047.s
 .PHONY : help
 
 
