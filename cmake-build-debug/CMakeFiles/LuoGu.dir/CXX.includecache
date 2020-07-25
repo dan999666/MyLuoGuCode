@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Administrator/Desktop/LuoGu/Array/P2550.cpp
-iostream
--
-cstring
+C:/Users/Administrator/Desktop/LuoGu/Array/P1554.cpp
+bits/stdc++.h
 -
 

@@ -1,5 +1,7 @@
+/*彩票摇奖*/
 #include <iostream>
 #include <cstring>
+
 using namespace std;
 
 int a[34], b[7], cnt, n, x;//a标记中奖号码1-33号，b保存每一组彩票号码的中奖情况，cnt保存每一组彩票相同的个数，n表示小明买了n组彩票，x读入的中奖号码
@@ -23,7 +25,7 @@ int main() {
                 cnt++;
             }
         }
-        b[7-cnt]++;
+        b[7 - cnt]++;
     }
     //输出数组b
     for (int k = 0; k < 7; ++k) {

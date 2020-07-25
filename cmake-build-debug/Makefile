@@ -122,32 +122,32 @@ LuoGu/fast:
 	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/build
 .PHONY : LuoGu/fast
 
-Array/P2550.obj: Array/P2550.cpp.obj
+Array/P1554.obj: Array/P1554.cpp.obj
 
-.PHONY : Array/P2550.obj
+.PHONY : Array/P1554.obj
 
 # target to build an object file
-Array/P2550.cpp.obj:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P2550.cpp.obj
-.PHONY : Array/P2550.cpp.obj
+Array/P1554.cpp.obj:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P1554.cpp.obj
+.PHONY : Array/P1554.cpp.obj
 
-Array/P2550.i: Array/P2550.cpp.i
+Array/P1554.i: Array/P1554.cpp.i
 
-.PHONY : Array/P2550.i
+.PHONY : Array/P1554.i
 
 # target to preprocess a source file
-Array/P2550.cpp.i:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P2550.cpp.i
-.PHONY : Array/P2550.cpp.i
+Array/P1554.cpp.i:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P1554.cpp.i
+.PHONY : Array/P1554.cpp.i
 
-Array/P2550.s: Array/P2550.cpp.s
+Array/P1554.s: Array/P1554.cpp.s
 
-.PHONY : Array/P2550.s
+.PHONY : Array/P1554.s
 
 # target to generate assembly for a file
-Array/P2550.cpp.s:
-	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P2550.cpp.s
-.PHONY : Array/P2550.cpp.s
+Array/P1554.cpp.s:
+	$(MAKE) -f CMakeFiles\LuoGu.dir\build.make CMakeFiles/LuoGu.dir/Array/P1554.cpp.s
+.PHONY : Array/P1554.cpp.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... LuoGu
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Array/P2550.obj
-	@echo ... Array/P2550.i
-	@echo ... Array/P2550.s
+	@echo ... Array/P1554.obj
+	@echo ... Array/P1554.i
+	@echo ... Array/P1554.s
 .PHONY : help
 
 
