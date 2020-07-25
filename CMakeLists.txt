@@ -3,4 +3,4 @@ project(LuoGu)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(LuoGu Array/P1047.cpp)
+add_executable(LuoGu Array/P2550.cpp)
