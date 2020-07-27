@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Administrator/Desktop/LuoGu/Array/P1554.cpp" "C:/Users/Administrator/Desktop/LuoGu/cmake-build-debug/CMakeFiles/LuoGu.dir/Array/P1554.cpp.obj"
+  "C:/Users/Administrator/Desktop/LuoGu/Array/P1614.cpp" "C:/Users/Administrator/Desktop/LuoGu/cmake-build-debug/CMakeFiles/LuoGu.dir/Array/P1614.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
